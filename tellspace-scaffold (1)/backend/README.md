@@ -1,0 +1,1 @@
+This is the backend scaffold. Use `pip install -r requirements.txt` and run `uvicorn app.main:app --reload`.

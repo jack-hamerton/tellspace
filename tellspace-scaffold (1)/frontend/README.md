@@ -1,0 +1,1 @@
+This is the frontend scaffold. `npm install` then `npm run dev`.
